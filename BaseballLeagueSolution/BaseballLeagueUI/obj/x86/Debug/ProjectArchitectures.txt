@@ -1,0 +1,2 @@
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\BaseballLeagueLibrary.csproj;x86
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\BaseballLeagueUI.csproj;x86

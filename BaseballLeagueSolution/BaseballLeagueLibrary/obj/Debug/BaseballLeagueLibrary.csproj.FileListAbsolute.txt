@@ -1,0 +1,96 @@
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.pri
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.CopyComplete
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\priconfig.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\priconfig.xml.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\unfiltered.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\filtered.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\excluded.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\resources.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\resources.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\pri.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\pri.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\qualifiers.txt
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.dll
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.pdb
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.pri
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.AssemblyReference.cache
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.CopyComplete
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.dll
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.pdb
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\priconfig.xml
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\priconfig.xml.intermediate
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\unfiltered.layout.resfiles
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\filtered.layout.resfiles
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\excluded.layout.resfiles
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\resources.resfiles
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\resources.resfiles.intermediate
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\pri.resfiles
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\pri.resfiles.intermediate
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\qualifiers.txt
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\qualifiers.txt.intermediate
+C:\Users\bambegoda1\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.dll
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.pdb
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.pri
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.AssemblyReference.cache
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.CoreCompileInputs.cache
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.CopyComplete
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.dll
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.pdb
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\priconfig.xml
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\priconfig.xml.intermediate
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\unfiltered.layout.resfiles
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\unfiltered.layout.resfiles.intermediate
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\filtered.layout.resfiles
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\filtered.layout.resfiles.intermediate
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\excluded.layout.resfiles
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\excluded.layout.resfiles.intermediate
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\resources.resfiles
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\resources.resfiles.intermediate
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\pri.resfiles
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\pri.resfiles.intermediate
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\qualifiers.txt
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\qualifiers.txt.intermediate
+E:\New folder\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.AssemblyReference.cache
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\BaseballLeagueLibrary.pri
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.AssemblyReference.cache
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.csproj.CopyComplete
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\BaseballLeagueLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\priconfig.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\priconfig.xml.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\unfiltered.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\filtered.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\excluded.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\resources.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\resources.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\pri.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\pri.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\qualifiers.txt
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt

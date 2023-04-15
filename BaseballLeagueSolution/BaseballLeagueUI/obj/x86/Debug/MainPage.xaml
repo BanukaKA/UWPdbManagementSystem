@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="BaseballLeagueUI.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BaseballLeagueUI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:ConnectionId='2' x:Name="btnGetPlayers" Content="Get Player" Margin="144,500,0,0" VerticalAlignment="Top" Height="43" Width="133" FontSize="24"                            />
+        <TextBox x:ConnectionId='3' x:Name="txbLastName" HorizontalAlignment="Left" Margin="104,242,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="214" FontSize="24" TextAlignment="Center" PlaceholderText="Last Name"/>
+        <TextBox x:ConnectionId='4' x:Name="txbMinBatAvg" HorizontalAlignment="Left" Margin="53,320,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="317" FontSize="24" TextAlignment="Center" PlaceholderText="Minimum Batting Average"/>
+        <TextBox x:ConnectionId='5' x:Name="txbMaxBatAvg" HorizontalAlignment="Left" Margin="53,405,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="319" FontSize="24" TextAlignment="Center" PlaceholderText="Maximum Batting Average"/>
+        <ListView x:ConnectionId='6' x:Name="lvwPlayers" HorizontalAlignment="Left" Margin="50,600,0,0" VerticalAlignment="Top">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <RelativePanel>
+                        <Button x:ConnectionId='19' x:Name="btnDeleteOnList" Content="X" Tag="{Binding playerID}" Margin="0,0,0,0"                              />
+                        <TextBlock Text="{Binding playerID}" Margin="40,0,0,0"/>
+                        <TextBlock Text="{Binding playerFirstName}" Margin="60,0,0,0"/>
+                        <TextBlock Text="{Binding playerLastName}" Margin="140,0,0,0"/>
+                        <TextBlock Text="{Binding playerBattingAverage}" Margin="220,0,0,0"/>
+                        <TextBlock Text="{Binding playerRunsScored}" Margin="280,0,0,0"/>
+                    </RelativePanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <TextBox x:ConnectionId='7' x:Name="txtLastName" HorizontalAlignment="Left" Margin="561,345,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="258" FontSize="24" TextAlignment="Center" PlaceholderText="Last Name"/>
+        <TextBlock x:ConnectionId='8' x:Name="Heading1" HorizontalAlignment="Left" Margin="588,118,0,0" Text="Insert Player" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36"/>
+        <TextBox x:ConnectionId='9' x:Name="txtBattingAvg" HorizontalAlignment="Left" Margin="561,423,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="257" FontSize="24" TextAlignment="Center" PlaceholderText="Batting Average"/>
+        <TextBox x:ConnectionId='10' x:Name="txtFirstName" HorizontalAlignment="Left" Margin="561,263,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="258" FontSize="24" TextAlignment="Center" PlaceholderText="First Name"/>
+        <TextBox x:ConnectionId='11' x:Name="txtPlayerRuns" HorizontalAlignment="Left" Margin="561,508,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="257" FontSize="24" TextAlignment="Center" PlaceholderText="Runs Scored"/>
+        <Button x:ConnectionId='12' x:Name="btnInsert" Content="Add NewPlayer" Margin="597,620,0,0" VerticalAlignment="Top" Height="50" Width="186" FontSize="24"                        />
+        <TextBlock x:ConnectionId='13' x:Name="Heading" HorizontalAlignment="Left" Margin="111,112,0,0" Text="Filter Players" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock x:ConnectionId='14' x:Name="Heading1_Copy" HorizontalAlignment="Left" Margin="972,112,0,0" Text="Delete Player" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36" Width="233"/>
+        <TextBox x:ConnectionId='15' x:Name="txtDelId" HorizontalAlignment="Left" Margin="947,343,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="47" Width="258" FontSize="24" TextAlignment="Center" PlaceholderText="Player ID"/>
+        <Button x:ConnectionId='16' x:Name="btnDelete" Content="Delete Player" Margin="983,450,0,0" VerticalAlignment="Top" Height="50" Width="186" FontSize="24"                        />
+        <Button x:ConnectionId='17' Content="Reset Form" Margin="1007,620,0,0" VerticalAlignment="Top" FontSize="24"                       />
+
+    </Grid>
+</Page>
+

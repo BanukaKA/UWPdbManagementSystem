@@ -1,0 +1,150 @@
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\App.xbf
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\MainPage.xbf
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.xr.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.exe
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.pdb
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\resources.pri
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\AppxManifest.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Core\BaseballLeagueUI.exe
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.build.appxrecipe
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Dapper.dll
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\System.Runtime.dll
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueLibrary.pri
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.csproj.AssemblyReference.cache
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.g.i.cs
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.g.cs
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.g.cs
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.xaml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.xaml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.xbf
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.xbf
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.csproj.CoreCompileInputs.cache
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.csproj.CopyComplete
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueLibrary.pri.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.exe
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.pdb
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\priconfig.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\resources.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\pri.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\qualifiers.txt
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Banuka Ambegoda\Desktop\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424995200000000.json
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\App.xbf
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\MainPage.xbf
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.xr.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.exe
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.pdb
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\resources.pri
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\AppxManifest.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Core\BaseballLeagueUI.exe
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.build.appxrecipe
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Dapper.dll
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\System.Runtime.dll
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueLibrary.dll
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueLibrary.pdb
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueLibrary.pri
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.csproj.AssemblyReference.cache
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.g.i.cs
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.g.cs
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.g.cs
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.xaml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.xaml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.xbf
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.xbf
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.csproj.CoreCompileInputs.cache
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.csproj.CopyComplete
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueLibrary.pri.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.exe
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.pdb
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\priconfig.xml
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\resources.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\pri.resfiles
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\qualifiers.txt
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Banuka Ambegoda\Desktop\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424995200000000.json
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\App.xbf
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\MainPage.xbf
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.xr.xml
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.exe
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.pdb
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\resources.pri
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\AppxManifest.xml
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Core\AppxManifest.xml
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Core\BaseballLeagueUI.exe
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueUI.build.appxrecipe
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Dapper.dll
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\System.Runtime.dll
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueLibrary.dll
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueLibrary.pdb
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\bin\x86\Debug\BaseballLeagueLibrary.pri
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.csproj.AssemblyReference.cache
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.g.i.cs
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.g.cs
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.g.i.cs
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.g.cs
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\XamlTypeInfo.g.cs
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.xaml
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.xaml
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\App.xbf
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MainPage.xbf
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\XamlSaveStateFile.xml
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.csproj.CoreCompileInputs.cache
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.csproj.CopyComplete
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueLibrary.pri.xml
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.exe
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\BaseballLeagueUI.pdb
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\ResourceHandlingTask.state
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\priconfig.xml
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\priconfig.xml.intermediate
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\unfiltered.layout.resfiles
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\filtered.layout.resfiles
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\excluded.layout.resfiles
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\resources.resfiles
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\resources.resfiles.intermediate
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\pri.resfiles
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\pri.resfiles.intermediate
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\qualifiers.txt
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\qualifiers.txt.intermediate
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\ProjectArchitectures.txt
+P:\Niagara College\Term 2\Client Server Web\Lab 45 V2\Lab 45\BaseballLeagueSolution\BaseballLeagueUI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424995200000000.json
